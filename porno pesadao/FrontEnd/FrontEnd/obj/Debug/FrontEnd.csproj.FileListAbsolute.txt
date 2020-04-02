@@ -1,0 +1,284 @@
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\FrontEnd.dll.config
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\FrontEnd.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\FrontEnd.pdb
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\csc.exe
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\csc.exe.config
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\csc.rsp
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\csi.exe
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\csi.exe.config
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\csi.rsp
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.AppContext.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Console.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.IO.Compression.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Security.Claims.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.ValueTuple.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\vbc.exe
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\vbc.exe.config
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\vbc.rsp
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\Antlr3.Runtime.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.Helpers.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.Mvc.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.Optimization.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.Razor.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.WebPages.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\WebGrease.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.Helpers.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.Mvc.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.Optimization.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.Razor.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.WebPages.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\Antlr3.Runtime.pdb
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\obj\Debug\FrontEnd.dll
+C:\Users\3binfo\Desktop\Nathan e Leo\Programação Web 3\FrontEnd\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\FrontEnd.dll.config
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\FrontEnd.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\FrontEnd.pdb
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Antlr3.Runtime.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.Helpers.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.Mvc.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.Optimization.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.Razor.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.WebPages.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\WebGrease.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.Helpers.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.Mvc.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.Optimization.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.Razor.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.WebPages.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Antlr3.Runtime.pdb
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\obj\Debug\FrontEnd.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\csc.exe
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\csc.exe.config
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\csc.rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\csi.exe
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\csi.exe.config
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\csi.rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.AppContext.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Console.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.IO.Compression.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Security.Claims.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.ValueTuple.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\vbc.exe
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\vbc.exe.config
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\vbc.rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\MySql.Data.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Google.Protobuf.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\Renci.SshNet.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\BouncyCastle.Crypto.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\FrontEnd\FrontEnd\bin\MySql.Data.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\obj\Debug\FrontEnd.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\FrontEnd.dll.config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\FrontEnd.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\FrontEnd.pdb
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csc(1).exe
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csc(1).rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csc.exe
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csc.exe(1).config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csc.exe.config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csc.rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csi(1).exe
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csi(1).rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csi.exe
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csi.exe(1).config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csi.exe.config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\csi.rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets(1)
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.Managed.Core.targets(1)
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets(1)
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.AppContext(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.AppContext.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Console(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Console.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Diagnostics.FileVersionInfo(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Diagnostics.StackTrace(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.Compression(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.Compression.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.FileSystem(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.Pipes(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.Pipes.AccessControl(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Reflection.Metadata(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.AccessControl(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Claims(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Claims.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Algorithms(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Encoding(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Primitives(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.X509Certificates(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Principal.Windows(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Text.Encoding.CodePages(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.ValueTuple(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.ValueTuple.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Xml.ReaderWriter(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XmlDocument(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XPath(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XPath.XDocument(1).dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\vbc(1).exe
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\vbc(1).rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\vbc.exe
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\vbc.exe(1).config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\vbc.exe.config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\vbc.rsp
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\VBCSCompiler(1).exe
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\VBCSCompiler.exe(1).config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Antlr3.Runtime.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\MySql.Data.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.Helpers.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.Mvc.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.Optimization.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.Razor.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.WebPages.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\WebGrease.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Google.Protobuf.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Renci.SshNet.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\BouncyCastle.Crypto.dll
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\MySql.Data.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.Helpers.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.Mvc.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.Optimization.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.Razor.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.WebPages.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Antlr3.Runtime.pdb
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Micha\OneDrive\Área de Trabalho\porno pesadao\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
