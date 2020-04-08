@@ -45,9 +45,9 @@ namespace FrontEnd.Conexao
                 {
 
                     {
-                        user.user_funcio = Convert.ToString(leitor["usuario"]);
-                        user.senha_funcio = Convert.ToString(leitor["Senha"]);
-                        user.permissao_funcio = Convert.ToString(leitor["tipo"]);
+                        user.user_funcio = Convert.ToString(leitor["usuario_funcio"]);
+                        user.senha_funcio = Convert.ToString(leitor["senha"]);
+                        user.permissao_funcio = Convert.ToString(leitor["permissao"]);
                     }
                 }
 
