@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@model FrontEnd.Models.funcionario
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -8,25 +10,103 @@
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse.collapse">
+                    <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <a class="navbar-brand" href="index.html"><span>Tengu</span></a>
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
-                </ul>
+                <div class="menu">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li role="presentation" class="active"><a href="index.html">Home</a></li>
+                        <li role="presentation"><a href="services.html">Services</a></li>
+                        <li role="presentation"><a href="blog.html">Blog</a></li>
+                        <li role="presentation"><a href="portfolio.html">Portfolio</a></li>
+                        <li role="presentation"><a href="contact.html">Contact</a></li>
+                        <li role="presentation"><a id="labellogin" onclick="document.getElementById('modal-wrapper').style.display ='block'">Login/Cadastro</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
+    </nav>
+
+    <div id="modal-wrapper" class="modal">
+
+        <form class="modal-content animate">
+            @using (Html.BeginForm("Logar", "Login", FormMethod.Post))
+            {
+                <div class="col-lg">
+                    <div class="imgcontainer">
+                        <span onclick="document.getElementById('modal-wrapper').style.display='none'" class="close" title="Close PopUp">&times;</span>
+                        <h1 style="text-align:center">Login</h1>
+                    </div>
+
+                    <div class="container">
+                        @Html.EditorFor(x => x.user_funcio, new
+                           {
+                               htmlAttributes = new { id = "txtEmail", type = "text", @class = "form-control", placeholder = "Digite seu e-mail", required = "required", maxlength = "50" }
+                           })
+
+                        @Html.ValidationMessageFor(x => x.user_funcio, "", new { @class = "text-danger" })
+                        <br />
+                        @Html.EditorFor(x => x.senha_funcio, new
+           {
+               htmlAttributes = new { id = "txtSenha", senha = "txtSenha", type = "password", @class = "form-control", placeholder = "Digite sua senha", required = "required", maxlength = "10" }
+           })
+
+                        @Html.ValidationMessageFor(x => x.senha_funcio, "", new { @class = "text-danger" })
+                        <br />
+                        <button type="submit" class="btn btn-primary">Login</button>
+                        <br />
+                    </div>
+                </div>
+            }
+        </form>
+        <form class="modal-content animate">
+            @using (Html.BeginForm("CadLogin", "Login", FormMethod.Post))
+            {
+                <div class="col-lg">
+                    <div class="imgcontainer">
+                        <h1 style="text-align:center">Cadastro</h1>
+                    </div>
+
+                    <div class="container">
+                        @Html.EditorFor(x => x.user_funcio, new
+                            {
+                                htmlAttributes = new { id = "txtEmail", senha = "txtEmail", type = "text", @class = "form-control", placeholder = "Digite seu e-mail", required = "required", maxlength = "30" }
+                            })
+
+                        @Html.ValidationMessageFor(x => x.user_funcio, "", new { @class = "text-danger" })
+                        <br />
+                        @Html.EditorFor(x => x.senha_funcio, new
+                            {
+                                htmlAttributes = new { id = "txtSenha", type = "password", @class = "form-control", placeholder = "Digite sua senha", required = "required", maxlength = "10" }
+                            })
+
+                        @Html.ValidationMessageFor(x => x.senha_funcio, "", new { @class = "text-danger" })
+                        <br />
+                        @Html.EditorFor(x => x.senha_funcio, new
+                            {
+                                htmlAttributes = new { id = "txtconfsenha", type = "password", @class = "form-control", placeholder = "Confirme sua senha", required = "required", maxlength = "10" }
+                            })
+
+                        @Html.ValidationMessageFor(x => x.senha_funcio, "", new { @class = "text-danger" })
+                        <br />
+                        <button type="submit" class="btn btn-primary">Cadastrar</button>
+                        <br />
+                    </div>
+                </div>
+            }
+        </form>
     </div>
+
     <div class="container body-content">
         @RenderBody()
         <hr />

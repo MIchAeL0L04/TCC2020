@@ -121,16 +121,22 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Autorizacao\AdminsOnly.cs" />
+    <Compile Include="Autorizacao\UserLoggedOn.cs" />
     <Compile Include="Conexao\clFunAcoes.cs" />
     <Compile Include="Conexao\clLoginAcoes.cs" />
     <Compile Include="Conexao\conexao.cs" />
+    <Compile Include="Constantes\SessionName.cs" />
+    <Compile Include="Constantes\UserTypeNames.cs" />
     <Compile Include="Controllers\FuncionarioController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\funcionario.cs" />
+    <Compile Include="Models\ManageData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
